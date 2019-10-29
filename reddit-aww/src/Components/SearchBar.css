@@ -1,0 +1,14 @@
+.search-bar {
+  display: flex;
+  padding: 0.25em 0.5em;
+}
+
+.search-bar input {
+  flex: 1;
+  margin-right: 0.5em;
+  font-size: 2em;
+}
+
+.search-bar button {
+  font-size: 2em;
+}
